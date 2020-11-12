@@ -1,7 +1,7 @@
 from roya import print_roya
 from samira import samira_print
 from leyla import print_leyla
-
+from menu import luck
 
 def main():
     print_roya()
