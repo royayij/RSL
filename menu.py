@@ -1,2 +1,2 @@
 def luck():
-    print (" You are lucky!")
+    print (" You are lucky !")
